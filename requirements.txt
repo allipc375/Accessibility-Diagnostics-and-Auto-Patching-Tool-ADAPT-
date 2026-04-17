@@ -1,0 +1,10 @@
+python-docx
+python-pptx
+python-pdf
+PyMuPDF
+pikepdf
+Pillow
+torch
+torchvision
+transformers
+numpy
