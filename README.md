@@ -6,7 +6,7 @@ Ally is an add-in for the Canvas Learning Management System that is intended to 
 
   1) Being usable only through files uploaded into Canvas​
   2) Requiring manual user interaction to determine scores​ and corrective actions​
-  3) Necessitating cycles of offline edit and manual​upload to confirm that corrective actions have the​intended effect
+  3) Necessitating cycles of offline edit and manual​upload to confirm that corrective actions have the​ intended effect
 
        
 Objectives:
