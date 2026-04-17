@@ -1,6 +1,5 @@
 # docx_checker.py
 
-
 from docx import Document
 from fixers.docx_fixer import (
     fix_text_contrast,
