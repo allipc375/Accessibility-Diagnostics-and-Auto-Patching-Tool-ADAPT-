@@ -10,7 +10,6 @@
 | docx_test008 | Decorative Image |
 | docx_test009 | Headings |
 | docx_test010 | Links |
-
 | pdf_test001 | None |
 | pdf_test002 | Language |
 | pdf_test003 | Links |
@@ -18,7 +17,6 @@
 | pdf_test005 | Tables |
 | pdf_test006 | Tables + Color contrast |
 | pdf_test007 | Tagging |
-
 | pptx_test001 | None |
 | pptx_test002 | Alternative text |
 | pptx_test003 | Alternative text |
