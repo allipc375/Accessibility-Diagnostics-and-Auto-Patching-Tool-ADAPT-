@@ -37,7 +37,7 @@ The tests/ directory contains sample files for testing, while the pyproject.toml
 |docx_test009|	docx|	Proper heading|	Minimal	|	1|	99|
 |docx_test010	|docx|	Links have text to describe target|	None|		1	|100|
 |pdf_test001	|pdf	|None	|None	|0	|100|
-|pdf_test002|	pdf	|Language set|	Minimal	|1|	100	|
+|pdf_test002|	pdf	|Language set|	Minimal	|1|	95	|
 |pdf_test003|	pdf	|Links have text to describe target	|None|	1	|100|
 |pdf_test004	|pdf	|List format	|None	|1	|100	|
 |pdf_test005	|pdf	|Tables with headers	|Minimal	|1	|68	|	
@@ -53,8 +53,8 @@ The tests/ directory contains sample files for testing, while the pyproject.toml
 |pptx_test004|	pptx	|Color contrast|	Minimal|	2|	86	|																			
 |pptx_test005	|pptx	|Color contrast	|Intermediate|	7	|48|
 |pptx_test006|	pptx|	Color contrast	|Intermediate	|5|	53|
-|pptx_test007	|pptx	| Text on image|	None|	0|	100		|		
-|pptx_test008|	pptx|	Title slide	|None	|0	|100	|																			
+|pptx_test007	|pptx	| Text on image|	None|	1|	100		|		
+|pptx_test008|	pptx|	Title slide	|None	|1	|100	|																			
 
 
 ### To run all examples --> python main.py --suite tests/                                                                         
