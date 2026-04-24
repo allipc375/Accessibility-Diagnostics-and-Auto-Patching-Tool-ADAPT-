@@ -1,3 +1,5 @@
+#checker.py
+
 import os
 
 from docx_checker import check_docx
